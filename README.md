@@ -1,6 +1,7 @@
 # ankit-shell-examples
 shell scripts example projects 
 📂 File: calculator.sh
+vim calculator.sh
 #!/bin/bash
 
 echo "==============================="
