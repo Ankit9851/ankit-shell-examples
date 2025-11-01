@@ -1,5 +1,7 @@
 # ankit-shell-examples
 shell scripts example projects 
+mkdir example.com
+cd example.com
 📂 File: calculator.sh
 vim calculator.sh
 #!/bin/bash
